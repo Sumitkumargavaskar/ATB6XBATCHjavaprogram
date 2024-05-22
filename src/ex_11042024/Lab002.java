@@ -14,7 +14,7 @@ public class Lab002 {
     public static void main(String[] args) {
         System.out.print("Hello Promoad");
         System.out.print("Hello Datta\t");
-
+        System.out.print("Hello Datta\t");
 
 
         // print -> in the end I will not add  \n - newline
