@@ -9,7 +9,7 @@ public class Lab054 {
     // String - immutable in nature?
     // Strings are immutable , non-primitive data types in Java.
     // Immutable - that can't be change.
-    name = "Dutta";
+    name = "dutta";
 
 }
 }
