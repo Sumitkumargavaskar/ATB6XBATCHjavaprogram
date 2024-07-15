@@ -7,7 +7,7 @@ public class Lab074 {
         // Taking an input from the user.
         // Scanner Class -
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter your name");
+        System.out.println("Enter your number");
         int num = sc.nextInt();
 
         if (num%2 == 0) {
